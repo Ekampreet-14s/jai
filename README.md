@@ -14,7 +14,7 @@ li::before{
 }
 </style>
 </head>
-<body>
+<body bgcolor=orange>
 <h1>Phonebook</h1>
 <div>A</div>
 <ul>
