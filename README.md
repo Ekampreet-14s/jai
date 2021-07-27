@@ -1,16 +1,13 @@
 <html>
 <head>
 <style>
-div{
-    border:2px solid black;
+div{border:2px solid black;
     background-color:blue;
     font-size: 30px;
     margin:20px;}
 
-div{
-    position: sticky;
-    top:20px;
-}
+div{position: sticky;
+    top:20px;}
 
 li::before{
       content: "\260E";
