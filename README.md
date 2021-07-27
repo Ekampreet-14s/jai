@@ -1,4 +1,3 @@
-# jai
 <html>
 <head>
 <style>
@@ -6,8 +5,7 @@ div{
     border:2px solid black;
     background-color:blue;
     font-size: 30px;
-    margin:20px;
-}
+    margin:20px;}
 
 div{
     position: sticky;
