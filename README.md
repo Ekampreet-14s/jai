@@ -2,7 +2,7 @@
 <head>
 <style>
 div{border:2px solid black;
-    background-color:blue;
+    background-color: light blue;
     font-size: 30px;
     margin:20px;}
 
